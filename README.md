@@ -14,7 +14,7 @@
 
 <table align="center" width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3 align="center">Universal Design</h3>
       <p align="center">
         <a href="https://github.com/arimaML/universal-design">
@@ -23,7 +23,7 @@
       </p>
       <p align="center">AI-система дизайна для веб-разработчиков. Заменяет шаблонные решения от ИИ структурированными макетами.</p>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3 align="center">arima-player</h3>
       <p align="center">
         <a href="https://github.com/arimaML/arima-player">
@@ -31,6 +31,15 @@
         </a>
       </p>
       <p align="center">Локальный музыкальный плеер для Windows. Нативный аудио-движок на Rust, FFT-визуализатор и Glass UI.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">HeartSlots</h3>
+      <p align="center">
+        <a href="https://github.com/arimaML/HeartSlots">
+          <img src="https://img.shields.io/github/stars/arimaML/HeartSlots?style=flat-square&color=E0E0E0&labelColor=0D1117&label=Stars" alt="Stars">
+        </a>
+      </p>
+      <p align="center">Мод для Terraria на tModLoader. Четыре крафтуемых реликвии, каждая навсегда открывает +1 слот аксессуаров.</p>
     </td>
   </tr>
 </table>
