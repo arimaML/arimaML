@@ -42,6 +42,19 @@
       <p align="center">Мод для Terraria на tModLoader. Четыре крафтуемых реликвии, каждая навсегда открывает +1 слот аксессуаров.</p>
     </td>
   </tr>
+  <tr>
+    <td width="33%"></td>
+    <td width="33%" valign="top">
+      <h3 align="center">Arima-UI Terraria</h3>
+      <p align="center">
+        <a href="https://github.com/arimaML/Arima-UI-Terraria">
+          <img src="https://img.shields.io/github/stars/arimaML/Arima-UI-Terraria?style=flat-square&color=E0E0E0&labelColor=0D1117&label=Stars" alt="Stars">
+        </a>
+      </p>
+      <p align="center">Интерфейс Terraria в стиле Liquid Glass: тёмное стекло, панели, HUD, меню и курсоры. Мод на tModLoader плюс ресурспак.</p>
+    </td>
+    <td width="33%"></td>
+  </tr>
 </table>
 
 ---
@@ -49,7 +62,7 @@
 ### ⛓️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=rust,ts,html,css,git&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=rust,ts,cs,html,css,git&theme=dark" alt="Tech Stack" />
 </div>
 
 ---
