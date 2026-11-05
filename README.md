@@ -70,12 +70,12 @@
 ### 📊 Статистика
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arimaML&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E0E0E0&text_color=A0A0A0&icon_color=E0E0E0" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arimaML&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E0E0E0&text_color=A0A0A0" height="150" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arimaML&theme=github_dark" height="195" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arimaML&theme=github_dark" height="195" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arimaML&theme=dark&background=0D1117&hide_border=true&stroke=E0E0E0&ring=E0E0E0&fire=E0E0E0&currStreakNum=E0E0E0&sideNums=E0E0E0&currStreakLabel=E0E0E0&sideLabels=E0E0E0&dates=A0A0A0" height="150" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arimaML&theme=github_dark" height="195" alt="Activity" />
 </div>
 
 ---
