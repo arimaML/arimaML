@@ -43,7 +43,15 @@
     </td>
   </tr>
   <tr>
-    <td width="33%"></td>
+    <td width="33%" valign="top">
+      <h3 align="center">GTA5-Gunpack-Black</h3>
+      <p align="center">
+        <a href="https://github.com/arimaML/GTA5-Gunpack-Black">
+          <img src="https://img.shields.io/github/stars/arimaML/GTA5-Gunpack-Black?style=flat-square&color=E0E0E0&labelColor=0D1117&label=Stars" alt="Stars">
+        </a>
+      </p>
+      <p align="center">Ганпак для GTA V: чёрное оружие с белой разделкой по стыкам деталей. Четыре ствола — Special Carbine, Carbine Rifle, Mini SMG и Assault Shotgun — в одном dlc.rpf.</p>
+    </td>
     <td width="33%" valign="top">
       <h3 align="center">Arima-UI Terraria</h3>
       <p align="center">
